@@ -21,11 +21,13 @@ npx playwright test
 
 
 Дополнительно было сделано (для отображения в браузере):
-```npx playwright install chromium 
+```shell
+npx playwright install chromium 
 ```
 
 В итоге получилось:
-```npx playwright test
+```shell
+npx playwright test
 
 Running 3 tests using 1 worker
   3 passed (13.9s)
